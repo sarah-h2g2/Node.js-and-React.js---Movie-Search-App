@@ -4,7 +4,7 @@
 <h4>npm run start-server</h4>
 3- Run the following to start the server and run the React app. By default it will run on port 3000.
 <h4>npm run start</h4>
-
+<hr>
 <b>Other available Scripts</b><br>
 
  - npm test<br>
