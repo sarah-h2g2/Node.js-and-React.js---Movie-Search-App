@@ -2,7 +2,7 @@
 1 -  CD into the project diretcory and run npm i to install the dependencies<br>
 2- Run the following to start Node.js server. Make sure there are no other applications running on port 5000:
 <h4>npm run start-server</h4>
-3- Run the following to start the server and run the react app. By default it will run on port 3000.
+3- Run the following to start the server and run the React app. By default it will run on port 3000.
 <h4>npm run start</h4>
 
 - Other available Scripts<br>
