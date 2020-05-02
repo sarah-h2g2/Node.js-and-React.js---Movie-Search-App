@@ -1,5 +1,6 @@
 <b>Instructions to run the Movie Search Application:</b><br>
-1-  CD into the project diretcory and run npm i to install the dependencies<br>
+1-  CD into the project diretcory and run the following command to install the dependencies:
+<h4>npm i</h4>
 2- Run the following to start Node.js server. Make sure there are no other applications running on port 5000:
 <h4>npm run start-server</h4>
 3- Run the following to start the server and run the React app. By default it will run on port 3000.
