@@ -1,0 +1,39 @@
+.searchCard {
+    overflow: hidden;
+    margin: 0 0 20px;
+    border-bottom: 1px solid #ccc;
+    padding: 0 0 20px;
+  }
+
+ a, a:hover, a:active {
+    display: block;
+    font-weight: bold;
+    color: #000;
+    text-transform: uppercase;
+    text-decoration: none;
+ } 
+  .date {
+   display: block;
+   font-weight: normal;
+   font-size: 0.8rem;
+ } 
+
+ .avg {
+   font-size: 0.8rem;
+   display: inline-block;
+   margin-left: 4px;
+ } 
+.searchCard img {
+  float: left;
+  display: block;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  margin: 0 10px 0 0;
+}
+.searchCard:last-child {
+  border-bottom: none;
+}
+ .searchCard span {
+  padding-top: 5px;
+}

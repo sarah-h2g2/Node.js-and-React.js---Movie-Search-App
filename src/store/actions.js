@@ -1,0 +1,2 @@
+export const ADDMOVIES = 'ADDMOVIES';
+export const SETSEARCHTITLE = 'SETSEARCHTITLE';
